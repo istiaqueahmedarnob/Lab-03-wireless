@@ -1,2 +1,2 @@
 # Lab-03-wireless
-Lab 3 for ETE 3644
+Cellular Frequency Reuse, Cluster Size, and System Capacity.
